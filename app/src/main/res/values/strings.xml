@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="Choose_name">Choose Name</string>
+    <string name="permission_rejected">Permission Rejected</string>
+    <string name="not_now">Not Now</string>
+    <string name="grant">Grant</string>
+    <string name="permission_camera_storage_needed">Camera Storage Needed</string>
+    <string name="permission_camera_storage">Permission Storage</string>
 </resources>
